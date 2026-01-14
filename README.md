@@ -15,10 +15,9 @@ The last thing you can do is do both simultaneously:
     colors.highlight ("Hello, world!", colors.BLUE, colors.BG_GREEN)
     Syntax:               { text }     { text color }  { bg color }
 
-(Github isn't showing the syntax correctly so open up the file directly)
-
 Here are the available colors:
 BLACK
+
 RED
 GREEN
 YELLOW
@@ -50,9 +49,13 @@ BG_WHITE
 # Bright background colors
 BG_BRIGHT_BLACK
 BG_BRIGHT_RED
+
+
 BG_BRIGHT_GREEN
 BG_BRIGHT_YELLOW
 BG_BRIGHT_BLUE
 BG_BRIGHT_MAGENTA
 BG_BRIGHT_CYAN
 BG_BRIGHT_WHITE
+
+(Github isn't showing the syntax correctly so open up the file directly)
