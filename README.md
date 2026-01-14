@@ -58,4 +58,4 @@ BG_BRIGHT_MAGENTA
 BG_BRIGHT_CYAN
 BG_BRIGHT_WHITE
 
-(Github isn't showing the syntax correctly so open up the file directly)
+(Github isn't showing the format correctly so open up the file directly)
