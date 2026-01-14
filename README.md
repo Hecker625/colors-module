@@ -14,3 +14,5 @@ You can also write text with a background:
 The last thing you can do is do both simultaneously:
     colors.highlight ("Hello, world!", colors.BLUE, colors.BG_GREEN)
     Syntax:               { text }     { text color }  { bg color }
+
+(Github isn't showing the syntax correctly so open up the file directly)
